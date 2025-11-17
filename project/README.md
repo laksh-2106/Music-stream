@@ -13,20 +13,6 @@ A modern, Spotify-inspired music streaming website featuring Bollywood, Punjabi,
 - **Playlists**: Create and manage custom playlists
 - **Offline Mode**: Download songs for offline listening (Premium feature)
 
-## 🚀 Live Demo
-
-[View Live Demo](https://your-username.github.io/musicstream)
-
-## 📱 Screenshots
-
-### Landing Page
-![Landing Page](./screenshots/landing.png)
-
-### Music Player
-![Music Player](./screenshots/player.png)
-
-### Mobile View
-![Mobile View](./screenshots/mobile.png)
 
 ## 🛠️ Technologies Used
 
@@ -151,9 +137,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Email**: your-email@example.com
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- **Portfolio**: [Your Portfolio](https://your-portfolio.com)
+- **Email**: attrilakshay07@gmail.com
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/lakshay-attri-a6286a258/)
+- **Portfolio**: [Your Portfolio](https://codolio.com/profile/kfSjV8sw)
 
 ---
 
